@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const Axios = axios.create({
-    baseURL:"http://localhost:9000"
+    baseURL:"https://job-finder-server-5l5w.onrender.com"
 })
 
 export default Axios;
