@@ -1,5 +1,7 @@
-# React + Vite + Redux-toolkit template
-
-### use this template for Redux-toolkit(JavaScript) template in vite.
+## job finder app
+1. Add job functionality. 
+2. Edit job functionality.
+3. Delete job functionality.
+3. filter job functionality.
 
  
